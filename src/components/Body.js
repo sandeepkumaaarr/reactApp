@@ -2,9 +2,8 @@ import React from 'react'
 import {Sum,Mul,Add,Sub} from './Arithmaticopp'
 let vara = +prompt("A");
 let varb = +prompt("B");
-function Body() {
- 
 
+function Body() {
   return (
     <>
     
